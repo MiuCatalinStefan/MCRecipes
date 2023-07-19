@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("./Photos/Background_MC_Recipe.jpg") center center;
+
+background-size: initial;   
+
+color: white;
+min-height:  50vh;
+margin-bottom: 100px;
+clear: both;
+align-items: center;
+}
+
+.browser{
+    width: 100%;
+}
+

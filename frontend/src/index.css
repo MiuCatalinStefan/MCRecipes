@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.footer{
+  display: flex;
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: tomato;
+  position: fixed;
+  bottom: 0;
+  left:0;
+  width: 100%;
+}
+
+.Links{
+  display:flex;
+}
+
+.navbar{
+  background-color: tomato;
+  padding: 1rem;
+  white-space: nowrap;
+}
+
+.browserDiv{
+  background-color: tomato;
+  width: 100%;
+  white-space: nowrap;
+}
+.container{
+  width: 100%;
+  white-space: nowrap;
+}
+
+.images{
+  display: flex;
+  background-color: rgba(207, 207, 207, 0.5);
+}
+
+.Home_Image{
+  flex:33.33%;
+  padding:10px;
+}
+.Image{
+  max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+.title{
+  text-align: center;
+}
+
+.SpiceInfo{
+  padding: 1em;
+  color: white;
+}
+
+.InfoSpiceDiv{
+  padding: 1em;
+  display: flex;
+  background-color:rgba(207, 207, 207, 0.5) ;
+}
+
+.tds{
+  color: white;
+  padding: 1em;
+}
+
+.recipeInfo{
+  padding: 1em;
+  display: flex;
+}
+
+.recipeTitle{
+  padding: 1em;
+}
+
+.recipeDescription{
+  padding: 1em;
+}
+
+.recipeList{
+  padding: 1em;
+}
+
+.divRecipe{
+  color: white;
+}
+
+.pInfo{
+  color:white;
+}
+
+.upDiv{
+  display: flex;
+  padding: 0.3em;
+}
+.downDiv{
+  display:flex;
+}
+.tdComms{
+  color: white;
+  display: flex;
+}
+
+.tagList{
+
+  color: white;
+  display: flex;
+}
+
+.pInfoTxt{
+  color:white;
+  padding: 1em;
+}
+
+
+.modalBody{
+  color:black;
+}
+
+.modalHeader{
+  color:black;
+}
+
+.meniuDiv{
+  padding: 1em;
+}
+
+.intrariTabel{
+  color: white;
+}
+
+.commTable{
+  width: 100%;
+  height: 300px;
+  min-width: 900px;
+  overflow-y: scroll;
+}
+
+.timerDiv{
+  color: white;
+}
+
+
+.timerButton{
+  padding: 0.5em;
+  display: flex;
+}
+
+.timerButtons{
+  display: flex;
+}
